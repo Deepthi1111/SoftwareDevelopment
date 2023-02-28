@@ -1,7 +1,7 @@
 # SoftwareDevelopment
 My Personal Coding Projects.
 
-Areas of Projects worked on from Jan 2022 to present:
+Areas of Projects worked on from Jan 2021 to present:
 1) Arrays
 2) Strings
 3) Linked Lists 
