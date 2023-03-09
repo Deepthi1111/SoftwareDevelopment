@@ -7,10 +7,10 @@ My Personal Coding Projects.
 4) Trees
 5) Binary Search Trees
 6) Graphs
-7) Heaps 
-8) Stacks
-9) Queues
-10) Priority Queues or Tries
+7) Stacks
+8) Queues
+9) Heaps
+10) Priority Queues
 11) Sorting
 12) Searching
 13) Recursion
